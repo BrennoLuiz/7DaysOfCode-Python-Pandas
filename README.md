@@ -1,4 +1,4 @@
-# 7 Days Of Code: pandas!
+# 7 Days Of Code: Python pandas
 Projeto do [7 Days of Code de Python Pandas](https://7daysofcode.io/matricula/pandas), utilizando a plataforma [Alura](https://www.alura.com.br/).
 
 ## Sobre o projeto
